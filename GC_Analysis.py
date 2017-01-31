@@ -27,7 +27,7 @@ m = Basemap(width=5000000,height=3500000,
 lon, lat = np.meshgrid(lons, lats)
 xi, yi = m(lon, lat)
 """
-Put todays scripts from the tutorial here
+Put todays scripts from the tutorial here and write out the details
 """
 """
 ################################################################################
